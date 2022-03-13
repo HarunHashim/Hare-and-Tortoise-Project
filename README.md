@@ -39,9 +39,9 @@ There is an image illustrating the general flow of this program to see how the d
 
 # Launching Instructions:
 
--> Once in the terminal , move in to the project directory type in "make" into the command line inorder to create the program's executable.
--> The executable is called "project".
--> Once you have made the program , type in "./project" inorder to run the program.
+-> Once in the terminal , move in to the project directory type in "make" into the command line inorder to create the program's executable.  
+-> The executable is called "project".  
+-> Once you have made the program , type in "./project" inorder to run the program.  
 -> The program runs with default 100 runs. If you want to change the number of runs , add the number of runs
-   you would like to run into the command line after the executable. 
+   you would like to run into the command line after the executable.   
    For example : "./project 50"  will execute program with 50 runs instead of the default 100.
