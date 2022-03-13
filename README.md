@@ -1,24 +1,24 @@
 # TORTOISE AND HARE PROJECT
-This is a project I wrote in C to implement the concepts I learned when learning C programming language.
+This is a project I wrote in C to implement the concepts I learned when learning C programming language.  
 
 These concepts include :
--> Multi -threading in C. ( Use of semaphore ad mutex)
--> Memory allocation and deallocation
--> Use of queues and linked lists to store data.
--> Separation of code into header files and source files.
+-> Multi -threading in C. ( Use of semaphore ad mutex)  
+-> Memory allocation and deallocation  
+-> Use of queues and linked lists to store data.  
+-> Separation of code into header files and source files.  
 
 
 # The files for this project
 
-->makefile
-->defs.h 	- contains all structure  and fuctions references used in the program .
-->deque.c 	- contains functions used to manipulate the deque
-->main.c 	- main control flow of the program
-->fight.c 	- the fight function
-->fighter.c	- contains all functions used to manipulate and initiallize  fighter types
-->threads.c - contains all the thread functions used in the program
-->stats.c 	- contains all the functions used to manipualte and initialize  statistics
-->specs.c	- contains all the functions used to manipulate and initialize  specs .
+->makefile.  
+->defs.h 	- contains all structure  and fuctions references used in the program .  
+->deque.c 	- contains functions used to manipulate the deque  
+->main.c 	- main control flow of the program.  
+->fight.c 	- the fight function.  
+->fighter.c	- contains all functions used to manipulate and initiallize  fighter types.  
+->threads.c - contains all the thread functions used in the program.  
+->stats.c 	- contains all the functions used to manipualte and initialize  statistics.  
+->specs.c	- contains all the functions used to manipulate and initialize  specs .  
 
 
 # The purpose of this program and how it works
